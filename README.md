@@ -2,6 +2,7 @@ Pile-up-simulation-and-detection
 ================================
 
 Pile-up event simulation and detection using biggest difference in the height method.
+Peaks were detected using sign change of tangent.
 
 Program was written for woking under Cern ROOT program.
 
